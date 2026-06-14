@@ -86,7 +86,7 @@ AI-Robotic-Arm-RDK-S100-OpenClaw
 │   └── ESP32_C3_Robotic_Arm.ino
 │
 ├── OpenClaw_Skill/
-│   └── SKILL.md
+│   └── robotic-arm.md
 │
 └── README.md
 ```
