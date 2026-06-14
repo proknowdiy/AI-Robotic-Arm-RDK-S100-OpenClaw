@@ -75,11 +75,12 @@ ESP32-C3 Controller
 ```text
 AI-Robotic-Arm-RDK-S100-OpenClaw
 │
-├── arm_api.py
-├── main.py
-├── robot_controller.py
-├── scene_detector.py
-├── task_executor.py
+├── python/
+│   ├── arm_api.py
+│   ├── main.py
+│   ├── robot_controller.py
+│   ├── scene_detector.py
+│   └── task_executor.py
 │
 ├── ESP32_Firmware/
 │   └── ESP32_C3_Robotic_Arm.ino
