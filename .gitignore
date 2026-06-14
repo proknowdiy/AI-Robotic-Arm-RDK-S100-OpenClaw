@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+scene.json
+debug.jpg
+
+.env
+.vscode/
+
+*.log
